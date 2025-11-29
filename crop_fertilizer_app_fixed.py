@@ -33,7 +33,7 @@ with st.sidebar:
     st.markdown("🎯 Predicts suitable crop and suggests fertilizer based on soil conditions.")
 
 # Main UI
-st.markdown("<h1 style='text-align: center; color: green;'>🌾 Smart Crop and Fertilizer Recommendation</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: green;'>🌾 FarmMate Crop and Fertilizer Recommendation</h1>", unsafe_allow_html=True)
 st.markdown("---")
 
 # Layout with columns
