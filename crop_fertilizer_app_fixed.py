@@ -23,11 +23,11 @@ fertilizer_dict = {
 }
 
 # Streamlit page config
-st.set_page_config(page_title="🌿 Smart Crop & Fertilizer Recommender", layout="wide")
+st.set_page_config(page_title="🌿 FarmMate Crop & Fertilizer Recommender", layout="wide")
 
 # Sidebar
 with st.sidebar:
-    st.title("📘 Project Info")
+    st.title("📘 FarmMate")
     st.markdown("**Crop & Fertilizer Recommendation System**")
     st.markdown("Built using: `Machine Learning`, `Streamlit`, `Python`")
     st.markdown("🎯 Predicts suitable crop and suggests fertilizer based on soil conditions.")
